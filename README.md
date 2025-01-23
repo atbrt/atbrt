@@ -31,7 +31,7 @@ Check out my GitHub repositories to see all my projects in detail!
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/arold-toubert-658a71293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
 </p>
