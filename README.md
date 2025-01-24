@@ -9,6 +9,7 @@ I am currently studying **statistics, finance and economics at ENSAE Paris**, an
 
 Here are some highlights of the work I've done:
 
+- [**Challenge Data QRT**](https://github.com/atbrt/Challenge-Data-QRT): This project is my solution for the Challenge Data between QRT and ENS Ulm "Qui va gagner ?"
 - [**Pricer_Monte_Carlo**](https://github.com/atbrt/Pricer_Monte_Carlo): This project is a pricer in C++, using Monte-Carlo methods to price vanilla and exotic options.
 - [**Hackathon-Kiro**](https://github.com/atbrt/Hackathon-Kiro): This project is my code for Hackathon Kiro, an operational research hackathon, which goal was to find the best car sequences in the assembly line to minimize costs.
 - [**projet_programmation**](https://github.com/atbrt/projet_programmation): This project contains solutions for a swap puzzle using various graph traversal algorithms in a object oriented architecture.
