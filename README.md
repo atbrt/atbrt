@@ -1,7 +1,5 @@
-## Hi there 👋 
-
 Hi, my name is **Arold Toubert**.  
-I am currently studying **statistics, finance and economics at ENSAE Paris**, and I am passionate about **data science and machine learning**.  
+I am currently studying **statistics, finance and economics at ENSAE Paris**.  
 
 ---
 
