@@ -9,6 +9,7 @@ Here are some highlights of the work I've done:
 
 - [**Volatility Forecasting with a hybrid GARCH-LSTM/GRU model**](https://github.com/atbrt/Volatility_Prediction): This project is about forecasting historical volatility with macroeconomic data and technical indicators.
 - [**Challenge Data QRT**](https://github.com/atbrt/qrt_challenge): This project is my solution for the Challenge Data between QRT and ENS Ulm "Football: Who will win?"
+- [**Time Series Project**](https://github.com/atbrt/time_series_project): This project is about forecasting the French Automobile Industry Index using ARIMA modeling.
 - [**Pricer_Monte_Carlo**](https://github.com/atbrt/Pricer_Monte_Carlo): This project is a pricer in C++, using Monte-Carlo methods to price vanilla and exotic options.
 - [**Hackathon-Kiro**](https://github.com/atbrt/Hackathon-Kiro): This project is my code for Hackathon Kiro, an operational research hackathon, which goal was to find the best car sequences in the assembly line to minimize costs.
 - [**projet_programmation**](https://github.com/atbrt/projet_programmation): This project contains solutions for a swap puzzle using various graph traversal algorithms in a object oriented architecture.
